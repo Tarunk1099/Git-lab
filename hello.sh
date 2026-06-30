@@ -5,6 +5,10 @@ echo "hello git"
 echo "version1"
 
 
-echo "version"
 
 
+
+
+echo "version diff"
+
+echo "version minus"
