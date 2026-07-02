@@ -1,1 +1,1 @@
-echo "master v1"
+echo "merged version"
