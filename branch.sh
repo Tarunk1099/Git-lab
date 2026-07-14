@@ -1,1 +1,1 @@
-echo "merged version"
+echo "merged version2 conflict"
