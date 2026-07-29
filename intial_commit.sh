@@ -1,0 +1,1 @@
+echo "inittext1"
